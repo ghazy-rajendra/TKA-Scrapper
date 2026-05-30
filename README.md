@@ -79,7 +79,7 @@ hasil_tka_<provinsi>_<jenjang>.xlsx
 
 | Paket | Versi | 
 |-------|-------|
-| `playwright` | 
+| `playwright` | 1.49.1 |
 | `pandas` | 2.2.3 | 
 | `openpyxl` | (auto) |
 
